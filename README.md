@@ -1,2 +1,5 @@
 # Final-Year-Project-backend
-Final year project still in development. Backend developed using Node.js, Express.js, PostgreSQL. Authentification system implemented. Database not yet functional.
+Final year project still in development.<br/>
+Backend developed using Node.js, Express.js, PostgreSQL.<br/>
+Authentification system implemented.<br/>
+Tested using postman.<br/>
